@@ -1,6 +1,7 @@
 # Felipe-Alves-IA
 
 Aluno: Felipe Dermeval Alves Santos
+
 Matrícula: 31310679
 
 O objetivo proposto para o trabalho é utilizar tipos de buscas para o PACMAN enconrar comidas e saídas em diversos labirintos que são gerados através de instruções codificadas no python.
